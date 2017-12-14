@@ -1,0 +1,11 @@
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Conector\bin\Debug\Conector.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Conector\bin\Debug\Conector.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Conector\bin\Debug\MySql.Data.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Conector\bin\Debug\MySql.Data.xml
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Conector\obj\Debug\Conector.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Conector\obj\Debug\Conector.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Conector\obj\Debug\Conector.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Conector\bin\Debug\Conector.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Conector\bin\Debug\Conector.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Conector\obj\Debug\Conector.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Conector\obj\Debug\Conector.pdb

@@ -1,0 +1,62 @@
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe.config
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form1.resources
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Properties.Resources.resources
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Desktop\UNIPOLI 4to\Metodos Numericos\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe.config
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form1.resources
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Properties.Resources.resources
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe.config
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form1.resources
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Properties.Resources.resources
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Conector.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\MySql.Data.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Conector.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\MySql.Data.xml
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe.config
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.exe
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.pdb
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.pdb
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Conector.dll
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\MySql.Data.dll
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\Conector.pdb
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\bin\Debug\MySql.Data.xml
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form2.resources
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form1.resources
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form3.resources
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Properties.Resources.resources
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csproj.GenerateResource.Cache
+C:\Users\Karem Ra\Documents\CarpetaDocs\Archivos\_UNIPOLI\7to\SKYFARM\Skyfarm 2.0\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form444.resources
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe.config
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Conector.dll
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Conector.pdb
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form2.resources
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form1.resources
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Properties.Resources.resources
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.BusquedaCultivo.resources
