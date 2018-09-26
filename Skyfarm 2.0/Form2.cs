@@ -42,9 +42,9 @@ namespace Skyfarm_2._0
         private void Form1_Load(object sender, EventArgs e)
         {
 
-            serialPort2.Open();
-            serialPort1.Open();
-            serialPort2.Write("1");
+           // serialPort2.Open();
+            //serialPort1.Open();
+           // serialPort2.Write("1");
             cnct();
             //cnct();
 

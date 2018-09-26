@@ -60,3 +60,16 @@ C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.
 C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Properties.Resources.resources
 C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csproj.GenerateResource.Cache
 C:\Users\Christopher\Desktop\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.BusquedaCultivo.resources
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe.config
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.exe
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Skyfarm 2.0.pdb
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Conector.dll
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\bin\Debug\Conector.pdb
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.BusquedaCultivo.resources
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form2.resources
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Form1.resources
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm_2._0.Properties.Resources.resources
+C:\Users\Christopher\Documents\UNIPOLI\SKYFARM ETAPA 2\Versiones\INTERFAZ\2.0.2\Skyfarm 2.0\obj\Debug\Skyfarm 2.0.csproj.GenerateResource.Cache
